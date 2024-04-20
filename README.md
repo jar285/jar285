@@ -5,7 +5,7 @@ Aspiring Web Developer with a genuine passion for the craft, honed through rigor
 
 ## 🎮 Hobbies & Interests
 
-Hello! I'm a 20-year-old developer who grew up in the sunny Dominican Republic. When I'm not coding, here's what I love doing:
+I'm a 20-year-old developer who grew up in the sunny Dominican Republic. When I'm not coding, here's what I love doing:
 
 - **Playing Video Games:** I'm a big fan of video games, and my all-time favorite character is Vegito. Whether it's battling it out in fighting games or embarking on epic RPG adventures, gaming is my go-to escape.
 
