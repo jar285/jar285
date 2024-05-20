@@ -7,11 +7,11 @@ Aspiring Web Developer with a genuine passion for the craft, honed through rigor
 
 I'm a 20-year-old developer who grew up in the sunny Dominican Republic. When I'm not coding, here's what I love doing:
 
-- **Playing Video Games:** I'm a big fan of video games, and my all-time favorite character is Vegito. Whether it's battling it out in fighting games or embarking on epic RPG adventures, gaming is my go-to escape.
+- **Playing Video Games:** I'm a big fan of video games. Whether it's battling it out in fighting games or embarking on epic RPG adventures, gaming is my go-to escape. (Feel free to add me on my playstation: pelotero-rosario)
 
 - **Fitness & Gym:** Staying active is important to me. I regularly hit the gym to keep fit and energized. It's a great way to balance out the hours spent at the computer.
 
-- **Playing Sports with Friends:** There's nothing like a good game to bring friends together. Whether it's soccer, basketball, or any other sport, I'm always up for some friendly competition.
+- **Playing Sports with Friends:** Whether it's soccer, basketball, or any other sport, I'm always up for some friendly competition.
 
 ### Let's Connect!
 
@@ -44,7 +44,8 @@ Feel free to reach out if you share similar interests or just want to talk tech.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jar285&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jar285&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=jar285&color=yellow)
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jar285&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph graph" />
 
