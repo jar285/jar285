@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Jesus Rosario and I'm a student, from NJIT!</h2>
 
 # 💫 About Me:
-Aspiring Web Developer with a genuine passion for the craft, honed through rigorous training at NJIT, currently pursuing my Bachelor's Degree. Actively seeking opportunities to apply my skills and contribute projects, ensuring both aesthetic appeal and functional excellence. Excited to embark on this journey and collaborate with like-minded professionals. <br><br>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.<br><br>
+Currently pursuing my Bachelor's Degree at NJIT. Actively seeking opportunities to apply my skills and contribute projects, ensuring both aesthetic appeal and functional excellence. Excited to embark on this journey and collaborate with like-minded professionals. <br><br>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.<br><br>
 
 ## 🎮 Hobbies & Interests
 
