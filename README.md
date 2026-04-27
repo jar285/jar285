@@ -1,7 +1,7 @@
 <h1 align="center">Jesus Rosario</h1>
 
 <p align="center">
-  AI Consultant developer • NJIT student • Open-source enthusiast
+  Forward Engineer • NJIT student • Open-source enthusiast
 </p>
 
 <p align="center">
